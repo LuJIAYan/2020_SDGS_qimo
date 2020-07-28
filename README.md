@@ -46,5 +46,10 @@
 
 # 二、代码
 ### 1.1 [web mining](https://github.com/LuJIAYan/2020webmining/tree/master/SDGS_qimo)
-### 1.2 Pandas
-### 1.3 LDA主题模型应用
+### 1.2 LDA主题模型应用
+* [数据清理、断词](https://github.com/LuJIAYan/2020_SDGS_qimo/blob/master/LDA/LDA_0629/SDG_%E6%95%B0%E6%8D%AE%E6%B8%85%E7%90%86_01_%E6%95%B0%E6%8D%AE%E6%B8%85%E7%90%86_%E8%BF%AD%E4%BB%A301.ipynb)
+* 半监督修正
+* LDA_01_主题建模_主题模型批量产出
+* LDA_02A_主题建模_pyLDA交互可視化批量产出
+* LDA_02B_主题建模_热点图交互可視化批量产出
+
