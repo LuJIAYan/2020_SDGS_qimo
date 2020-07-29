@@ -42,9 +42,17 @@
 - 五、[习近平广东等其他重要讲话]()
 
 ### 1.3中国故事：
-
+* 共性：
+* 特点：
 
 # 二、代码
-### 1.1 [web mining](https://github.com/LuJIAYan/2020webmining/tree/master/SDGS_qimo)
-### 1.2 Pandas
-### 1.3 LDA主题模型应用
+### 2.1 [web mining](https://github.com/LuJIAYan/2020webmining/tree/master/SDGS_qimo)
+* [生态文明](https://github.com/LuJIAYan/2020_SDGS_qimo/blob/master/web_mining/%E7%94%9F%E6%80%81%E6%96%87%E6%98%8E%E7%88%AC%E8%99%AB/getContents.ipynb)
+* [联合国17个发展目标、习近平新时代中国特色社会主义思想学习纲要（19个）、习近平新时代中国特色社会主义思想学习纲要](https://github.com/LuJIAYan/2020_SDGS_qimo/blob/master/web_mining/get_content%E4%BB%A3%E7%A0%81%E9%9B%86.ipynb)
+### 2.2 LDA主题模型应用
+* [数据清理、断词](https://github.com/LuJIAYan/2020_SDGS_qimo/blob/master/LDA/LDA_0629/SDG_%E6%95%B0%E6%8D%AE%E6%B8%85%E7%90%86_01_%E6%95%B0%E6%8D%AE%E6%B8%85%E7%90%86_%E8%BF%AD%E4%BB%A301.ipynb)
+* 半监督修正
+* LDA_01_主题建模_主题模型批量产出
+* LDA_02A_主题建模_pyLDA交互可視化批量产出
+* LDA_02B_主题建模_热点图交互可視化批量产出
+
